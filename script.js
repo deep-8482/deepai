@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     "nano": "Nano একটা বড় mutthal",
 
-    "deep": "চুদির ভাই ওইরকম answer দেবো না😒",
+    "deep": "ha laora toder moton amio bokachoda kintu amar thekhe boro bokachoda neel ar nano 🤪",
     
     "atanu": "অতনু একটা বালের বাস পোদে ঢোকায়",
 
@@ -27,7 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     "hi": "আরে বোকাচোদা বেশি না চুদিয়ে বল কি",
 
-    "sex video": "রমেশ স্যার হ্যান্ডেল মেরে দেবে শুনে নিলে"
+    "sex video": "রমেশ স্যার হ্যান্ডেল মেরে দেবে শুনে নিলে",
+
+    "rina": "wow rina nice ato matha gorom koris na sotti mathar sob chul pore jabe re",
+
+    "hello":"hello tor gare vore debo bokachoda neel"
 
   };
 
@@ -116,3 +120,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
   userInput.addEventListener('keypress', e => { if (e.key === 'Enter') sendButton.click(); });
 });
+

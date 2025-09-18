@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     "love you": "এইটা পরে লিখছি দাড়া😆",
 
-    "neel": "নীল রাতে সরষের তেল পিছোনে লাগায়",
+    "neel": "নীল রাতে সরষের তেল পিছোনে লাগায়(nano এটা দিতে বলেছে) 😆",
 
     "nano": "Nano একটা বড় mutthal",
 
@@ -32,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
     "rina": "wow rina nice ato matha gorom koris na sotti mathar sob chul pore jabe re",
 
     "hello":"hello tor gare vore debo bokachoda neel"
-
   };
 
   // ✅ Default responses
@@ -120,4 +119,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
   userInput.addEventListener('keypress', e => { if (e.key === 'Enter') sendButton.click(); });
 });
+
 

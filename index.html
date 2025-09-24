@@ -22,5 +22,19 @@
   </div>
 
   <script src="script.js"></script>
+  <script>
+window.addEventListener("load", () => {
+  fetch("http://localhost:3000/logVisit", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      path: location.pathname,
+      referrer: document.referrer
+    })
+  }).catch(() => {});
+});
+</script>
+
 </body>
 </html>
+
